@@ -1,3 +1,18 @@
+.shop-name {
+    font-size: 35px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul.nav > li.nav-item > a {
+    line-height: 50px;
+}
+
+ul.nav > li.nav-item > a.nav-link {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container-margin-top {
     margin-top: 25px;
 }
