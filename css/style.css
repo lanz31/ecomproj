@@ -11,6 +11,8 @@
     text-align: center;
 }
 
+div.items-container {}
+
 div.items-container ul li {
     list-style-type: none;
     float: left;
