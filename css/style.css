@@ -1,3 +1,7 @@
+.container-margin-top {
+    margin-top: 25px;
+}
+
 .carousel-img {
     width: 100%;
     height: 380px;
@@ -11,7 +15,13 @@
     text-align: center;
 }
 
-div.items-container {}
+.search-box-container {
+    width: inherit;
+}
+
+div.items-container ul {
+    padding: 0;
+}
 
 div.items-container ul li {
     list-style-type: none;
